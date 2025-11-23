@@ -1,6 +1,7 @@
 {
     "name": "alphavel/circuit-breaker",
     "description": "High-performance Circuit Breaker pattern for resilient microservices in Alphavel",
+    "version": "1.0.0",
     "keywords": ["circuit-breaker", "resilience", "microservices", "fault-tolerance", "alphavel"],
     "license": "MIT",
     "type": "library",
